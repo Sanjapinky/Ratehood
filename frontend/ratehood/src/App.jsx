@@ -1,40 +1,39 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import neighborhoodLogo from '/assets/neighborhood-svgrepo-com.svg'
+// import {Route} from 'react-router-dom'
 import './App.css'
+import Header from "./components/Header.jsx";
+import About from "./components/About.jsx";
+import Logo from "./components/Logo.jsx";
+
 
 function App() {
-  const [count, setCount] = useState(0)
-
+    // const [count, setCount] = useState(0)
 
     return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-          <a target="_blank">
-              <img src={neighborhoodLogo} className="logo neighborhood" alt="Neighborhood logo"/>
-          </a>
-      </div>
-      <h1>Sanja & Mercedez</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </div>
-  )
+
+        <div className="App">
+            <Logo/>
+            <Header/>
+            <form className='search-for-neighborhood'>
+                <label>Search for the neighborhood:  </label>
+                <input type= 'text'
+                       placeholder='Enter your choice'/>
+                <input type='submit' value='Submit'/>
+            </form>
+            <div className="card">
+                <button className="btn btn-search">
+                    Explore our Webpage
+                </button>
+            </div>
+            <div className='footer'>
+                <footer>
+                    <About/>
+                </footer>
+
+            </div>
+
+        </div>
+
+    )
 }
 
 export default App
