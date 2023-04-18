@@ -23,15 +23,23 @@ PROGRAMMING LANGUAGES:
 Backend:
 
 *Java: A popular object-oriented programming language used to build the server-side logic of the application.
+
 *Spring: A framework for building enterprise-level applications using Java.
+
 *Spring Boot: A popular framework that makes it easy to create standalone Spring applications.
+
 *Spring Data JPA: A library that makes it easy to interact with a database using Spring.
+
 *MySQL or PostgreSQL: Relational database management systems that we can use to store our data.
 
 Frontend:
 
 *JavaScript: The programming language used to build the client-side logic of your application.
+
 *React: A popular JavaScript library for building user interfaces.
+
 *HTML/CSS: The markup and styling languages used to create the structure and style of the web page.
+
 *Axios: A JavaScript library used to make HTTP requests to the backend.
+
 *Redux: A state management library that can help you manage the state of the application in a predictable way.
