@@ -18,6 +18,17 @@ IMPLEMENTATION:
 
 * For the frontend, we are going to work with React to build a user-friendly interface for the application. React provides a powerful and flexible way to create complex UIs.
 
+FEATURES
+
+* About / Contact page
+* Menu bar
+* Search Engine
+* Review page
+* Cities page with description
+* Current location's time and weather
+* Register / Log in page
+* Map of the current city
+
 PROGRAMMING LANGUAGES:
 
 Backend:
