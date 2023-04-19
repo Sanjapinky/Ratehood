@@ -1,7 +1,7 @@
 import {Link} from "react-router-dom";
 const About = () => {
     return(
-        <div>
+        <div className='about-page' id='about-page'>
             <p>
                 We have created a web-based application that provides comprehensive
                 information about a particular neighborhood in a city.

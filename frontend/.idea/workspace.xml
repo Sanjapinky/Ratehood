@@ -7,9 +7,7 @@
     <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="adding some changes to the frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratehood/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratehood/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratehood/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,49 +1,53 @@
 #root {
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
 
 
 }
-/*.card {
-  padding: 2em;
-}*/
 
 
-.header{
-  height: 720px;
-  border-radius: 5px;
-  background-image: url('assets/city-1681895072182-235.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+.header {
+    height: 50px;
+    border-radius: 5px;
+}
+
+.App {
+    background-color: lightgrey;
 
 }
 
-.App{
-  background-color: lightgrey;
-
-}
-.first-heading{
-  font-family: Serif   ;
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  color: white;
-  margin-right: 50px;
-  background-color: rgba(255, 0, 0, 0.5);
+.first-heading {
+    font-family: Serif;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    color: white;
+    margin-right: 50px;
+    background-color: rgba(255, 0, 0, 0.5);
 
 
 }
-.menu-bar{
-  background-color: rgba(129, 129, 129, 0.5);
-  height: 56px;
+
+.menu-bar {
+    background-color: rgba(129, 129, 129, 0.5);
+
 }
-.list-components{
-  font-family: Serif;
-  font-size: 30px;
-  display: flex;
-  flex-direction: row;
+
+.list-components {
+    font-family: Serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(129, 129, 129, 0.5);;
 }
-.list-components a{
-  margin-right: 30px;
+
+.list-components a {
+    margin-right: 30px;
+}
+
+.about-page {
+    background-color: rgba(129, 129, 129, 0.5);;
+    position: absolute;
+    bottom: 0;
 }
