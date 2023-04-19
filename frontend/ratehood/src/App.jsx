@@ -3,6 +3,7 @@ import './App.css'
 import Header from "./components/Header.jsx";
 import About from "./components/About.jsx";
 import Logo from "./components/Logo.jsx";
+import MenuBar from "./components/MenuBar.jsx";
 
 
 function App() {
@@ -11,18 +12,10 @@ function App() {
     return (
 
         <div className="App">
-            <Logo/>
+            <MenuBar/>
             <Header/>
-            <form className='search-for-neighborhood'>
-                <label>Search for the neighborhood:  </label>
-                <input type= 'text'
-                       placeholder='Enter your choice'/>
-                <input type='submit' value='Submit'/>
-            </form>
             <div className="card">
-                <button className="btn btn-search">
-                    Explore our Webpage
-                </button>
+
             </div>
             <div className='footer'>
                 <footer>
