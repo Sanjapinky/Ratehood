@@ -25,14 +25,17 @@
 }
 .first-heading{
   font-family: Serif   ;
-  height: 600px;
-  width: 1835px;
+  height: 100px;
+  width: 100px;
   position: absolute;
   color: white;
   margin-right: 50px;
+  background-color: rgba(255, 0, 0, 0.5);
+
+
 }
 .menu-bar{
-  background-color: yellow;
+  background-color: rgba(129, 129, 129, 0.5);
   height: 56px;
 }
 .list-components{
