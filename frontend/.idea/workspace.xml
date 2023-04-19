@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../backend/src/main/java/com/codecool/raterhood/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratehood/src/components/MenuBar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="adding some changes to the frontend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,5 +60,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding some changes to the frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding some changes to the frontend" />
   </component>
 </project>
