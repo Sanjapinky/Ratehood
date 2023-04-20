@@ -5,10 +5,197 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="adding some changes to the frontend">
+      <change afterPath="$PROJECT_DIR$/raterhood/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/1036494-space-9-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/10x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/16x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/16x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/198315-anime_girls-Fate_Series-Saber-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/1x1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/205146-cars-amg-white-cars-mercedes-benz-auto-cla-cla-200-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/205558-Xenoblade_Chronicles-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/223016-black-honda-cars-roads-vehicles-honda-s2000-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/284868-Grand_Theft_Auto_V-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/2x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/32x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/355355-city-skyline-New_York_City-Times_Square-748x421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/366703-abstract-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/388961-Homer_Simpson-minimalism-yellow-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/390833-Zelda-Samus_Aran-Princess_Peach-Nintendo-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/396015-vip-only-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/42937-women-blonde-hair_in_face-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/477606-architecture-bridge-cities-city-francisco-gate-golden-night-san-skyline-california-usa-bay-sea-bridges-1-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/4x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/4x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/516269-Ezreal-League_of_Legends-Ezreal_League_Of_Legends-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/540553-Overwatch-D.Va_Overwatch-Tracer_Overwatch-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/683817-assassins-creed-brotherhood-action-adventure-fantasy-fighting-warrior-stealth-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/88874-X-wing-Star_Wars-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/8x3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/8x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/9857-artwork-Pyramid_Head-300x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/a11y.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/autocomplete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/black_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/brightness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/cache.skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/contrast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/dom-ready.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/flip_horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/flip_vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/frontend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/hooks.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/i18n.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/index(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/it.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-ui-1.9.2.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/menu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/negate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/recaptcha__de_at.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/regenerator-runtime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/scroll-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/search-autocomplete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/styles__ltr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/wallup_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/wp-polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/city-1681895072182-235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/assets/echo-park-lake-and-neighborhood-with-downtown-los-angeles-in-background-1024x683.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/components/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/components/Logo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/components/MenuBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raterhood/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/1036494-space-9-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/10x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/16x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/16x9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/198315-anime_girls-Fate_Series-Saber-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/1x1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/205146-cars-amg-white-cars-mercedes-benz-auto-cla-cla-200-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/205558-Xenoblade_Chronicles-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/223016-black-honda-cars-roads-vehicles-honda-s2000-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/284868-Grand_Theft_Auto_V-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/2x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/32x9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/355355-city-skyline-New_York_City-Times_Square-748x421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/366703-abstract-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/388961-Homer_Simpson-minimalism-yellow-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/390833-Zelda-Samus_Aran-Princess_Peach-Nintendo-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/396015-vip-only-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/3x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/42937-women-blonde-hair_in_face-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/477606-architecture-bridge-cities-city-francisco-gate-golden-night-san-skyline-california-usa-bay-sea-bridges-1-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/4x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/4x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/516269-Ezreal-League_of_Legends-Ezreal_League_Of_Legends-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/540553-Overwatch-D.Va_Overwatch-Tracer_Overwatch-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/5x4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/683817-assassins-creed-brotherhood-action-adventure-fantasy-fighting-warrior-stealth-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/88874-X-wing-Star_Wars-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/8x3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/8x5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/9857-artwork-Pyramid_Head-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/a11y.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/anchor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/autocomplete.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/black_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/brightness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/cache.skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/contrast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/dom-ready.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/flip_horizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/flip_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/frontend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/hooks.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/i18n.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/index(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/it.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery-ui-1.9.2.custom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/menu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/negate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/recaptcha__de_at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/regenerator-runtime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/scroll-to-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/search-autocomplete.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/styles__ltr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/wallup_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city, Skyline, New York City, Times Square Wallpapers HD _ Desktop and Mobile Backgrounds_files/wp-polyfill.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/city-1681895072182-235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/assets/echo-park-lake-and-neighborhood-with-downtown-los-angeles-in-background-1024x683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/components/About.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Logo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/components/MenuBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/vite.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +216,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ObfI7Ldjaa9sjKj74IMpkzwgOm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -60,6 +251,7 @@
       <updated>1681834120079</updated>
       <workItem from="1681834121298" duration="1295000" />
       <workItem from="1681890403111" duration="5786000" />
+      <workItem from="1681978057538" duration="64000" />
     </task>
     <servers />
   </component>
@@ -67,6 +259,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding some changes to the frontend" />
     <option name="LAST_COMMIT_MESSAGE" value="adding some changes to the frontend" />
   </component>
