@@ -7,12 +7,8 @@
     <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="adding some changes to the frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratehood/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ratehood/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/Logo.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratehood/src/components/MenuBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/components/MenuBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratehood/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ratehood/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sanja/sanja/fourth_modul/ratehood/frontend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/sanja/sanja/fourth_modul/ratehood",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,8 +60,6 @@
       <updated>1681834120079</updated>
       <workItem from="1681834121298" duration="1295000" />
       <workItem from="1681890403111" duration="5786000" />
-      <workItem from="1681928012173" duration="2802000" />
-      <workItem from="1681975799690" duration="6847000" />
     </task>
     <servers />
   </component>
