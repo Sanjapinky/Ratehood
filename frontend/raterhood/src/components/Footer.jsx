@@ -2,7 +2,7 @@ import About from "./About.jsx";
 
 const Footer = () => {
     return(
-        <div>
+        <div className='copyright'>
             <p>©Copyright Feher & Letic</p>
         </div>
     )

@@ -1,3 +1,5 @@
+
+
 const MenuBar = () => {
     return (
         <div className='menu-bar'>
