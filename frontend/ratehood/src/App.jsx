@@ -1,28 +1,29 @@
-// import {Route} from 'react-router-dom'
 import './App.css'
 import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx";
+import {useState} from "react";
 import About from "./components/About.jsx";
-import Logo from "./components/Logo.jsx";
-import MenuBar from "./components/MenuBar.jsx";
-
 
 function App() {
-    // const [count, setCount] = useState(0)
 
+    const [isShown, setIsShown] = useState(false)
+    const handleClick = event => {
+        //toggle shown state
+        setIsShown(current => !current)
+        //setIsShown(true)
+    }
     return (
 
         <div className="App">
-            <Header/>
+            <div className='header-card'>
+                <Header/>
+            </div>
             <div className="card">
-
+                <About/>
             </div>
             <div className='footer'>
-                <footer>
-                    <About/>
-                </footer>
-
+                <Footer/>
             </div>
-
         </div>
 
     )
