@@ -1,6 +1,6 @@
 import {useState} from "react";
-import Login from "./Login.jsx";
-import Register from "./Register.jsx";
+import Login from "./register-login/Login.jsx";
+import Register from "./register-login/Register.jsx";
 
 function MenuBar() {
     return (

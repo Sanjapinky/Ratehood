@@ -1,8 +1,8 @@
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
 import About from "./About.jsx";
-import Login from "./Login.jsx";
-import Register from "./Register.jsx";
+import Login from "./register-login/Login.jsx";
+import Register from "./register-login/Register.jsx";
 import {useState} from "react";
 
 function Home() {
