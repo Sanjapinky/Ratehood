@@ -220,6 +220,11 @@ code {
     background-color: rgba(129, 129, 129, 0.5);
 }
 
+.img {
+    height: auto;
+    width: 100%;
+}
+
 .go-back {
 
     font-family: 'Arial', Sans-Serif;
