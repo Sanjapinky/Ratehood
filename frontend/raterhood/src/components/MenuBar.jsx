@@ -9,8 +9,8 @@ function MenuBar() {
             <div className='menu-bar'>
 
                 <ul className='list-components'>
-                    <li><a href="https://www.youtube.com/watch?v=87p2vnOz7_c&t=1s">Home</a></li>
-                    <li><a href="/">Review</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=87p2vnOz7_c&t=1s">Review</a></li>
                     <li><a href="/">Locations</a></li>
                     <li><a href="/contact">Contact</a></li>
                     <li><a href="/staff">Staff</a></li>

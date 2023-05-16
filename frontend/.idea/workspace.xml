@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="finishing the styling of the page">
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/codecool/raterhood/repository/CityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/codecool/raterhood/repository/CityRepository.java" afterDir="false" />
+    <list default="true" id="72ede1cc-4d51-4265-92e4-d8f523bd08f1" name="Changes" comment="making the login and register work with firebase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raterhood/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raterhood/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/components/Home.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raterhood/src/components/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/components/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raterhood/src/components/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/components/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raterhood/src/components/firebase.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/components/firebase.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raterhood/src/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raterhood/src/components/MenuBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/raterhood/src/components/MenuBar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +80,16 @@
       <workItem from="1684142874662" duration="7349000" />
       <workItem from="1684162439348" duration="4119000" />
       <workItem from="1684223142084" duration="753000" />
-      <workItem from="1684231714453" duration="5203000" />
+      <workItem from="1684231714453" duration="9181000" />
     </task>
+    <task id="LOCAL-00001" summary="making the login and register work with firebase">
+      <created>1684238197775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684238197775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +99,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding some changes to the frontend" />
     <MESSAGE value="adding some new components and rearranging the app.jsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding some new components and rearranging the app.jsx" />
+    <MESSAGE value="making the login and register work with firebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="making the login and register work with firebase" />
   </component>
 </project>

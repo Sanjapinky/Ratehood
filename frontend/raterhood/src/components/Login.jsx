@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import firebase from './firebase';
 
+
+
 const Login = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
@@ -19,15 +21,16 @@ const Login = () => {
             .auth()
             .signInWithEmailAndPassword(email, password)
             .then((userCredential) => {
-// Handle successful login
+                // Handle successful login
                 const user = userCredential.user;
                 console.log('Logged in:', user.email);
             })
             .catch((error) => {
-// Handle login error
+                // Handle login error
                 console.log('Login error:', error.message);
             });
     };
+
     return (
         <div>
             <h2>Login</h2>
@@ -51,5 +54,3 @@ const Login = () => {
 };
 
 export default Login;
-
-
