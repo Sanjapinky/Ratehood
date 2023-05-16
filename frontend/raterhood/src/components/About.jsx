@@ -1,6 +1,7 @@
 import {useState} from "react";
 
-const About = () => {
+
+function About() {
     const [isShown, setIsShown] = useState(false)
     const handleClick = event => {
         //toggle shown state
@@ -17,7 +18,8 @@ const About = () => {
                         information about a particular neighborhood in a city.<br/>
                         This can be a great help for people who are planning to move or rent out a flat.<br/>
                         Our application is designed to provide information on the building's condition,<br/>
-                        the neighborhood's population density, the availability and cost of parking, public transportation<br/>
+                        the neighborhood's population density, the availability and cost of parking, public
+                        transportation<br/>
                         options, and infrastructure. <br/>
                         Additionally, we are including new functionalities such as reviews from people who<br/>
                         live in the area,<br/>
@@ -28,4 +30,5 @@ const About = () => {
         </>
     )
 }
+
 export default About

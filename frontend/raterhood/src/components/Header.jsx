@@ -1,12 +1,13 @@
 import React from "react";
 import MenuBar from "./MenuBar.jsx";
 
-const Header = () => {
+function Header() {
     return (
         <header className='header'>
             <MenuBar/>
-            <h1 className='first-heading'>Raterhood</h1>
+            <h1 className='first-heading'>RaterHood</h1>
         </header>
     )
 }
+
 export default Header
