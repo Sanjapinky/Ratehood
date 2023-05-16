@@ -1,42 +1,55 @@
-import {useState} from 'react'
-import { Link } from 'react-router-dom'
+import React, { useState } from 'react';
+import firebase from './firebase';
 
+const Login = () => {
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
 
-function Login(){
+    const handleEmailChange = (e) => {
+        setEmail(e.target.value);
+    };
 
-    const [email, setEmail] = useState('')
-    const [password, setPassword] = useState('')
-    const [error, setError] = useState('')
+    const handlePasswordChange = (e) => {
+        setPassword(e.target.value);
+    };
 
-    return(
-        <div className='center'>
-            <div className='auth'>
-                <h1>Log in</h1>
-                {error && <div className='auth__error'>{error}</div>}
-                <form name='login_form'>
-                    <input
-                        type='email'
-                        value={email}
-                        required
-                        placeholder="Enter your email"
-                        onChange={e => setEmail(e.target.value)}/>
-
-                    <input
-                        type='password'
-                        value={password}
-                        required
-                        placeholder='Enter your password'
-                        onChange={e => setPassword(e.target.value)}/>
-
-                    <button type='submit'>Login</button>
-                </form>
-                <p>
-                    Don't have and account?
-                    <Link to='/register'>Create one here</Link>
-                </p>
-            </div>
+    const handleLogin = (e) => {
+        e.preventDefault();
+        firebase
+            .auth()
+            .signInWithEmailAndPassword(email, password)
+            .then((userCredential) => {
+// Handle successful login
+                const user = userCredential.user;
+                console.log('Logged in:', user.email);
+            })
+            .catch((error) => {
+// Handle login error
+                console.log('Login error:', error.message);
+            });
+    };
+    return (
+        <div>
+            <h2>Login</h2>
+            <form onSubmit={handleLogin}>
+                <input
+                    type="email"
+                    placeholder="Email"
+                    value={email}
+                    onChange={handleEmailChange}
+                />
+                <input
+                    type="password"
+                    placeholder="Password"
+                    value={password}
+                    onChange={handlePasswordChange}
+                />
+                <button type="submit">Login</button>
+            </form>
         </div>
-    )
-}
+    );
+};
 
-export default Login
+export default Login;
+
+

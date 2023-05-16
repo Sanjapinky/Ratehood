@@ -9,7 +9,7 @@
 .auth form{
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 12px;
     margin: 0 auto 10px auto;
 }
 

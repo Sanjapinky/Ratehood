@@ -219,4 +219,8 @@ code {
     -webkit-background-clip: text; /* Clip the background to the text */
     -webkit-text-fill-color: transparent; /* Make the text transparent */
 }
+.register-form{width: max-content}
+.login-form{
+    width: max-content;
 
+}

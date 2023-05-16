@@ -1,50 +1,54 @@
-import {useState} from 'react'
-import { Link } from 'react-router-dom'
+import React, { useState } from 'react';
+import firebase from './firebase';
 
+const Register = () => {
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
 
-function Register() {
+    const handleEmailChange = (e) => {
+        setEmail(e.target.value);
+    };
 
-    const [email, setEmail] = useState('')
-    const [password, setPassword] = useState('')
-    const [confirmPassword, setConfirmPassword] = useState('')
-    const [error, setError] = useState('')
+    const handlePasswordChange = (e) => {
+        setPassword(e.target.value);
+    };
+
+    const handleRegister = (e) => {
+        e.preventDefault();
+        firebase
+            .auth()
+            .createUserWithEmailAndPassword(email, password)
+            .then((userCredential) => {
+                // Handle successful registration
+                const user = userCredential.user;
+                console.log('Registered:', user.email);
+            })
+            .catch((error) => {
+                // Handle registration error
+                console.log('Registration error:', error.message);
+            });
+    };
 
     return (
-        <div className='center'>
-            <div className='auth'>
-                <h1>Register</h1>
-                {error && <div className='auth__error'>{error}</div>}
-                <form name='registration_form'>
-                    <input
-                        type='email'
-                        value={email}
-                        placeholder="Enter your email"
-                        required
-                        onChange={e => setEmail(e.target.value)}/>
-
-                    <input
-                        type='password'
-                        value={password}
-                        required
-                        placeholder='Enter your password'
-                        onChange={e => setPassword(e.target.value)}/>
-
-                    <input
-                        type='password'
-                        value={confirmPassword}
-                        required
-                        placeholder='Confirm password'
-                        onChange={e => setConfirmPassword(e.target.value)}/>
-
-                    <button type='submit'>Register</button>
-                </form>
-                <span>
-          Already have an account?
-          <Link to='/login'>login</Link>
-        </span>
-            </div>
+        <div>
+            <h2>Register</h2>
+            <form onSubmit={handleRegister}>
+                <input
+                    type="email"
+                    placeholder="Email"
+                    value={email}
+                    onChange={handleEmailChange}
+                />
+                <input
+                    type="password"
+                    placeholder="Password"
+                    value={password}
+                    onChange={handlePasswordChange}
+                />
+                <button type="submit">Register</button>
+            </form>
         </div>
-    )
-}
+    );
+};
 
-export default Register
+export default Register;

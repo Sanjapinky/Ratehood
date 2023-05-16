@@ -5,18 +5,25 @@ import Login from "./Login.jsx";
 import Register from "./Register.jsx";
 import {useState} from "react";
 
-function Home(){
-    const [componentVisible, setComponentVisible] = useState(false);
-    function handleClick(){
-        setComponentVisible(true);
+function Home() {
+    const [loginVisible, setLoginVisible] = useState(false);
+    const [registerVisible, setRegisterVisible] = useState(false);
+
+    function handleLoginClick() {
+        setLoginVisible(true);
     }
-    return(
+
+    function handleRegisterClick() {
+        setRegisterVisible(true);
+    }
+
+    return (
         <div>
             <div>
-                <button className='login-button' onClick={handleClick}>Login</button>
-                {componentVisible && <Login/>}
-                <button className='sign-up-button' onClick={handleClick}>Sign up</button>
-                {componentVisible && <Register/>}
+                <button className='login-button' onClick={handleLoginClick}>Login</button>
+                <button className='sign-up-button' onClick={handleRegisterClick}>Sign up</button>
+                {loginVisible && <Login/>}
+                {registerVisible && <Register/>}
             </div>
             <Header/>
             <About/>
@@ -24,4 +31,5 @@ function Home(){
         </div>
     )
 }
-export  default Home
+
+export default Home
